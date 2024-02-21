@@ -19,7 +19,6 @@ If you have an existing account, set another path (instead of mysite) or any fil
    
 4. Return to the PythonAnywhere dashboard. You will be prompted to check your email and confirm your email address. This is essential if you are likely to forget (and need to reset) your password at any stage.
 
- 
-![starter project](images/starter_project.png)
+**PETE I WANT TO PUT A BOXOUT HERE ABOUT HAVING TO LOG INTO ACCOUNT ON A REGULAR BASIS**
 
 --- /task ---
