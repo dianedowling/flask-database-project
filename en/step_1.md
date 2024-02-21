@@ -1,20 +1,15 @@
 ## Introduction
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+In this project, your goal is to develop a website to promote the United Nations Sustainability targets. Through this platform, individuals will have the opportunity to make personal pledges aimed at contributing to a more sustainable world. 
 
 ### What you will make
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+A simple website with two pages: 
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
++ The first page will display information about the Sustainability targets.
++ The second page will contain a form that will be used to capture a pledge. This page will also display pledges that have been made previously.
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+You will also create a database with a single table to store the pledges. 
 
 --- collapse ---
 ---
@@ -22,17 +17,14 @@ title: What you will need
 ---
 ### Hardware
 
-+ A computer or tablet capable of running Scratch 3
++ A computer or tablet capable of running Python 3
++ An internet connection
 
 ### Software
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
++ This project can be completed in a web browser using [pythonanywhere](https://www.pythonanywhere.com/)
 
-### Downloads
-
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
+This project uses Flask. Flask is a web application framework written in Python that allows you to develop web applications relatively easily. Python Anywhere is free to use (for a basic account) and provides you space to host your files on a web server with Flask pre-installed as well as access to various database servers, including a MySQL server (which you will use for this project). 
 
 --- /collapse ---
 
@@ -41,9 +33,23 @@ title: What you will need
 title: What you will learn
 ---
 
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
++ Create a simple web site using Flask
++ Set up a MySQL database with a single table
++ Link the database to your web application
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: Prior learning
+---
+
+To follow this project you need core skills in:
+
++ Python
++ HTML (and some understanding of CSS)
++ SQL
++ Database design
 
 --- /collapse ---
 
