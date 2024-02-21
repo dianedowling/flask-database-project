@@ -1,14 +1,21 @@
-## Step title
+## Getting started with Python Anywhere
 
-Add an introductory sentence. What will learners achieve by the end of this step?
+In this step you will create a free account on [Python Anywhere](https://www.pythonanywhere.com/)
 
 --- task ---
 
-If working **online**, open the [starter project](https://rpf.io/p/en/projectName-on){:target="_blank"} in Scratch.
- 
-If working **offline**, open the project [starter file](https://rpf.io/p/en/projectName-get){:target="_blank"} in the Scratch offline editor. If you need to download and install Scratch, you can find it [here](https://scratch.mit.edu/download){:target="_blank"}.
+1. Create a free account on [Python Anywhere](https://www.pythonanywhere.com/)
 
-You should see...
+2. You must specify a username and should bear in mind that this name will be used as the subdomain for your website. For example, if you specify the username mickeymouse, your web site will be accessed by typing: 
+
+https://mickeymouse.pythonanywhere.com/ 
+
+in a browser. 
+
+3. Once you’ve signed up, you’ll be taken to your dashboard and will be given the option of taking a brief tour. This does not take long and is worth doing so that you are introduced to the basic layout of the site. You do not need to do any of the advanced tours.
+   
+4. Return to the PythonAnywhere dashboard. You will be prompted to check your email and confirm your email address. This is essential if you are likely to forget (and need to reset) your password at any stage.
+
  
 ![starter project](images/starter_project.png)
 
