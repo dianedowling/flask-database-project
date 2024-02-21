@@ -4,7 +4,7 @@ In this step you will use Flask to create a simple website.
 
 --- task ---
 
-1. From the Python Anywhere dashboard, click on the “Web” link near the top right, and you’ll be taken to a page where you can create your website.  Remember that free accounts can have just one website.
+1. From the PythonAnywhere dashboard, click on the “Web” link near the top right, and you’ll be taken to a page where you can create your website.  Remember that free accounts can have just one website.
 2. Click on the “Add a new web app” button. This will open a configuration wizard that allows you to set up your site. 
 
 + Accept the default (free) domain name
