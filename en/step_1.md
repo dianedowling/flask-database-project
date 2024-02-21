@@ -58,6 +58,8 @@ To follow this project you need core skills in:
 title: Additional information for educators
 ---
 
+A free account on PythonAnywhere will allow a student to run a single web application at a subdomain on the domain pythonanywhere.com. There are restrictions in terms of storage space, CPU, bandwidth and outbound Internet access from your apps. However, a free account should be adequate to host a student project. Python Anywhere also has a free education beta feature to support a classroom learning environment. 
+
 You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
