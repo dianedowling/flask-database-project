@@ -17,14 +17,6 @@ in a browser.
 4. Return to the PythonAnywhere dashboard. You will be prompted to check your email and confirm your email address. This is essential if you are likely to forget (and need to reset) your password at any stage.
 
  
-![starter project](images/starter_project.png)
-
---- /task ---
-
---- task ---
-
-Step content...
-
 --- /task ---
 
 --- save ---
