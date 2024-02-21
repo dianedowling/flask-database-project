@@ -1,6 +1,6 @@
 ## Getting started with Python Anywhere
 
-In this step you will create a free account on [Python Anywhere](https://www.pythonanywhere.com/)
+In this step you will create a free account on Python Anywhere and familiarise yourself with its layout. 
 
 --- task ---
 
